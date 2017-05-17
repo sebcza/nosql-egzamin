@@ -1,4 +1,4 @@
-# nosql-egzamin
+# NoSql Egzamin
 Wybrany zbiór danych - [Data sales of Movies](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset)
 
 Aggregation pipeline
@@ -12,4 +12,4 @@ Aggregation pipeline
 | Dysk                  | SSD |
 | Baza danych           | MongoDB |
 
-
+Wynik wykonanych agregacji [PDF](https://github.com/sebcza/nosql-egzamin/blob/master/Ciekawe%20wnioski%20z%20danych%20sprzeda%C5%BCowych%20film%C3%B3w.pdf)
